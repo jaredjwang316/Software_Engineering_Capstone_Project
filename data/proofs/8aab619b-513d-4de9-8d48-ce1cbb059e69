@@ -1,0 +1,6 @@
+example (h1 : P ∧ Q) : P := 
+  by
+  obtain ⟨h2, _⟩ := h1
+  exact h2
+
+

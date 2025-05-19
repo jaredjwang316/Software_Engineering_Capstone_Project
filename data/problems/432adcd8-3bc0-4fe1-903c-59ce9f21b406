@@ -1,0 +1,5 @@
+ (x y: Nat): 37 * x + y = 37 * x + y :=
+ (h1 : P \and Q) : P :=
+ (h1 : P) (h2: P->Q) : Q :=
+ (h1 : P->Q) (h2 : Q->R) (h3 : P) : R :=
+ (h1 : P \or Q) (h2 : P->R) (h3 : q->r) : r :=

@@ -1,0 +1,2 @@
+example (x y: Nat): 37 * x + y = 37 * x + y :=
+  by rfl

@@ -1,0 +1,2 @@
+example (h1 : p → r) (h2 : q → r) (h3 : p ∨ q) : r :=
+  sorry 

@@ -1,0 +1,1 @@
+example (h1 : P) (h2: P->Q) : Q :=

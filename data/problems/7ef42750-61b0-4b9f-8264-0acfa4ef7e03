@@ -1,0 +1,1 @@
+example (h1 : P ∧ Q) : P :=

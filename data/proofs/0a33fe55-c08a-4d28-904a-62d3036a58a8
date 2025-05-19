@@ -1,0 +1,2 @@
+example (h : p ∨ q) (hpq : p → r) (hqq : q → r) : r :=
+  

@@ -1,0 +1,5 @@
+example (h1 : p → r) (h2 : q → r) (h3 : p ∨ q) : r :=
+
+example (x y: Nat): 36 * x + y = 36 * y + x :=
+
+def hello : IO Unit := IO.println "Howdy world!"

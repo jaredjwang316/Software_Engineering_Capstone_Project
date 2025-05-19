@@ -1,0 +1,2 @@
+theorem propositional (h1 : P ∧ Q) : P := by
+  apply h1.left

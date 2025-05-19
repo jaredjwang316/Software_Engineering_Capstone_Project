@@ -1,0 +1,4 @@
+example (h1 : P ∨ Q) (h2 : P → R) (h3 : Q → R) : R :=
+  by cases h1 with
+  | inl hp => exact h2 hp
+  | inr hq => exact h3 hq

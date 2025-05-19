@@ -1,0 +1,2 @@
+example (h1 : P \and Q) : P :=
+by exact h1.left

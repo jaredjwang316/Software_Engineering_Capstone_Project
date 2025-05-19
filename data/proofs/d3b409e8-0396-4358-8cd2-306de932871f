@@ -1,0 +1,2 @@
+example (h : p ∧ q) : p := 
+  by exact And.left h

@@ -1,0 +1,1 @@
+def yap (P : Prop) (Q : Prop) : ¬ P → (P → Q) := by sorry
